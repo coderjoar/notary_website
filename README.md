@@ -1,3 +1,3 @@
 # notary_website
 
-https://only1joar.github.io/notary_website/
+https://onlyonejoar.github.io/notary_website/
